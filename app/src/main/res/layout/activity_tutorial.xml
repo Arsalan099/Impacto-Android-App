@@ -1,0 +1,77 @@
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@mipmap/vec"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <Button
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:text="General Terms"
+        android:id="@+id/tub1"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:text="GENERAL TERMS2"
+        android:id="@+id/tub7"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:text="Days of week"
+        android:id="@+id/tub2"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:text="Numbers"
+        android:id="@+id/tub3"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:text="Adjectives"
+        android:id="@+id/tub4"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:text="Conjugation"
+        android:id="@+id/tub5"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:text="SUBJECT PRONOUN"
+        android:id="@+id/tub8"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:text="ARTICLES"
+        android:id="@+id/tub9"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:text="PREPOSITION"
+        android:id="@+id/tub10"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:text="Home"
+        android:id="@+id/hb1"
+        android:layout_gravity="center_horizontal" />
+
+</LinearLayout>

@@ -1,0 +1,134 @@
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@mipmap/vec"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:weightSum="1">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/qtv1"
+        android:layout_gravity="center_horizontal"
+        android:text="1) Hola, me llamo Sandra. Y tú, ¿cómo te _____"
+        android:textStyle="bold"
+        android:textSize="17sp"/>
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="llama"
+        android:id="@+id/qcb1"
+        android:checked="false" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="llamas"
+        android:id="@+id/qcb2"
+        android:checked="false" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2) ¿Quiénes ______ los “Beatles”?"
+        android:textStyle="bold"
+        android:textSize="17sp"
+        android:id="@+id/qtv2" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="es"
+        android:id="@+id/qcb3"
+        android:checked="false" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="son"
+        android:id="@+id/qcb4"
+        android:checked="false" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="3) ¿______se dice “Tisch” en español?"
+        android:textStyle="bold"
+        android:textSize="17sp"
+        android:id="@+id/qtv3" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/qcb5"
+        android:checked="false"
+        android:text="Cómo" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dónde"
+        android:id="@+id/qcb6"
+        android:checked="false" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="4)¿ ___ hora?"
+        android:textStyle="bold"
+        android:textSize="17sp"
+        android:id="@+id/qtv4" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" quende"
+        android:id="@+id/qcb7"
+        android:checked="false" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="que"
+        android:id="@+id/qcb8"
+        android:checked="false" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="5) ¿Cuál  _____  tu número de teléfono?"
+        android:textStyle="bold"
+        android:textSize="17sp"
+        android:id="@+id/qtv5" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" es"
+        android:id="@+id/qcb9"
+        android:checked="false" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="tienes"
+        android:id="@+id/qcb10"
+        android:checked="false" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Next"
+        android:id="@+id/qb1"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Home"
+        android:id="@+id/qb3"
+        android:layout_gravity="center_horizontal" />
+
+</LinearLayout>
+

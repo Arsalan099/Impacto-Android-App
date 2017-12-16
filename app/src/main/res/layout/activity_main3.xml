@@ -1,0 +1,96 @@
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@mipmap/vec"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <Button
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:text="Translate"
+        android:id="@+id/b22"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:text="English  to Spanish"
+        android:id="@+id/b221"
+        android:layout_gravity="center_horizontal" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv1"
+        android:hint="Enter the word here"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:text="Search"
+        android:id="@+id/b223"
+        android:layout_gravity="center_horizontal" />
+
+    <WebView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/wv1"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:text="Spanish to English"
+        android:id="@+id/b222"
+        android:layout_gravity="center_horizontal" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Enter the word here"
+        android:id="@+id/tv2"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:text="Search"
+        android:id="@+id/b224"
+        android:layout_gravity="center_horizontal" />
+
+    <WebView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/wv2"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:text="Tutorials"
+        android:id="@+id/b23"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:text="Interactive Video"
+        android:id="@+id/b25"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:text="Take a Test"
+        android:id="@+id/b24"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:text="Home"
+        android:id="@+id/b21"
+        android:layout_gravity="center_horizontal" />
+
+</LinearLayout>

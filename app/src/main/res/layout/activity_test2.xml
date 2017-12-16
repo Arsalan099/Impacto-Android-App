@@ -1,0 +1,132 @@
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@mipmap/vec"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:weightSum="1">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/qtv6"
+        android:text="6) Ana tiene unos niños muy _____"
+        android:textStyle="bold"
+        android:textSize="17sp"/>
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="guapos"
+        android:id="@+id/qcb11"
+        android:checked="false" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="guapa"
+        android:id="@+id/qcb12"
+        android:checked="false" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="7) En Valladolid ____  una iglesia muy bonita."
+        android:textStyle="bold"
+        android:textSize="17sp"
+        android:id="@+id/qtv7" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="hay"
+        android:id="@+id/qcb13"
+        android:checked="false" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="son"
+        android:id="@+id/qcb14"
+        android:checked="false" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="8) Perdone, ¿dónde _____ el Teatro Real?"
+        android:textStyle="bold"
+        android:textSize="17sp"
+        android:id="@+id/qtv8" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/qcb15"
+        android:checked="false"
+        android:text="estan" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="esta"
+        android:id="@+id/qcb16"
+        android:checked="false" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="9) A Roberto _____ regalamos un disco de Madonna."
+        android:textStyle="bold"
+        android:textSize="17sp"
+        android:id="@+id/qtv9" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" le"
+        android:id="@+id/qcb17"
+        android:checked="false" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="la"
+        android:id="@+id/qcb18"
+        android:checked="false" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="10) ¿ ___ queso manchego?"
+        android:textStyle="bold"
+        android:textSize="17sp"
+        android:id="@+id/qtv10" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cómo"
+        android:id="@+id/qcb19"
+        android:checked="false" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="tiene"
+        android:id="@+id/qcb20"
+        android:checked="false" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Previous"
+        android:id="@+id/qb2"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Home"
+        android:id="@+id/tb4"
+        android:layout_gravity="center_horizontal" />
+
+</LinearLayout>
