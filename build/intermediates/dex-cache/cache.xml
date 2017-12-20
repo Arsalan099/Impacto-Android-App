@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\hp\AndroidStudioProjects\Impacto\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\hp\AndroidStudioProjects\Impacto\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_306f418fc71313a41a4cf1e05c3b537b99d93ae5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\hp\AndroidStudioProjects\Impacto\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\hp\AndroidStudioProjects\Impacto\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_1fd211441b630428b1a8ceef633b1adcd112408a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\hp\AndroidStudioProjects\Impacto\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\hp\AndroidStudioProjects\Impacto\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_add5c5e3e90bb341d3595f20ab3cc1734dd47951\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\hp\AndroidStudioProjects\Impacto\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\hp\AndroidStudioProjects\Impacto\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_e1ab9f9dd51b54fa4fcd817210435029d7b0a96e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\hp\AndroidStudioProjects\Impacto\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="349b5272377fd3a6fd88a65e1480900d39f6c613">
+        <dex dex="C:\Users\hp\AndroidStudioProjects\Impacto\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_dcedb1a07919f22c78576503872f796693d6e0e9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\hp\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.1.1\3af19f153122737b372622fa6c81dd11a1c6b999\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\hp\AndroidStudioProjects\Impacto\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_1821b3dbbae40949049e20c304acd67b5a0b9a36\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\hp\AndroidStudioProjects\Impacto\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ec30aea78a5fa29a8bd1f6b8313e6cf19fc38a18">
+        <dex dex="C:\Users\hp\AndroidStudioProjects\Impacto\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_62d981cd8270ec817f8be5be21d95445552c6579\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\hp\AndroidStudioProjects\Impacto\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\hp\AndroidStudioProjects\Impacto\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_ce603c61ea10238213a349ce254db908dff11868\classes.dex" />
+    </item>
+
+</items>
